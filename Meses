@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Array de meses</title>
+	<script>
+
+	var meses = ["Enero", " Febrero", " Marzo", " Abril", " Mayo", " Junio", " Julio", " Agosto", 
+				" Septiembre", " Octubre", " Noviembre", " Diciembre."];
+
+		//Agrega un mensaje a la consola con los meses del año dados en el array anterior
+		console.log("Mensaje por consola de los meses del año:");
+		console.log(meses);
+	
+
+</script>
+</head>
+<body>
+
+	<script type="text/javascript">
+
+		document.write("Meses del año:")
+		document.write("<br>" + meses + "<br>");
+	</script>
+
+</body>
+</html>
